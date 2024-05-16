@@ -9,6 +9,7 @@
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
+  <!-- linux_thermal_zone_bringup doesn't depend otherwise recursive dependencies -->
   <exec_depend>linux_thermal_zone_base</exec_depend>
   <exec_depend>linux_thermal_zone_interfaces</exec_depend>
 
