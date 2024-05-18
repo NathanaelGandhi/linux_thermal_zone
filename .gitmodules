@@ -6,3 +6,7 @@
 	path = linux_thermal_zone_interfaces
 	url = git@github.com:NathanaelGandhi/linux_thermal_zone_interfaces.git
 	branch = release
+[submodule "linux_thermal_zone_bringup"]
+	path = linux_thermal_zone_bringup
+	url = git@github.com:NathanaelGandhi/linux_thermal_zone_bringup.git
+	branch = release
