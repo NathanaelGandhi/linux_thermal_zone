@@ -1,0 +1,4 @@
+[submodule "linux_thermal_zone_base"]
+	path = linux_thermal_zone_base
+	url = git@github.com:NathanaelGandhi/linux_thermal_zone_base.git
+    branch = release
