@@ -4,3 +4,8 @@
 [![Mirror release to humble](https://github.com/NathanaelGandhi/linux_thermal_zone/actions/workflows/mirror-release-to-humble.yaml/badge.svg?branch=release)](https://github.com/NathanaelGandhi/linux_thermal_zone/actions/workflows/mirror-release-to-humble.yaml)
 
 Metapackage for Linux Thermal Zone ROS2 Packages
+
+## Development
+```
+git submodule foreach --recursive git checkout main && git submodule foreach --recursive git pull
+```
